@@ -325,13 +325,46 @@
     <div class="eyebrow">06 · Contact</div>
     <h2>Get in Touch</h2>
     <ul class="contact-list">
-      <li><span class="label">Email</span> <a href="mailto:masumiqbal62@gmail.com">masumiqbal62@gmail.com</a></li>
-      <li><span class="label">Phone</span> <span>01999205212</span></li>
-      <li><span class="label">LinkedIn</span> <a href="#">https://www.linkedin.com/in/masum-iqbal-ru/</a></li>
-      <li><span class="label">Google Scholar</span> <a href="#">https://scholar.google.com/citations?user=zEopuOgAAAAJ&hl=en</a></li>
-      <li><span class="label">ORCID</span> <a href="#">https://orcid.org/0009-0000-5700-6727</a></li>
-      <li><span class="label">ResearchGate</span> <a href="#">https://www.researchgate.net/profile/Mdmasum-Iqbal?ev=hdr_xprf</a></li>
-    </ul>
+     <ul class="contact-list">
+    <li>
+        <span class="label">Email</span>
+        <a href="mailto:masumiqbal62@gmail.com">masumiqbal62@gmail.com</a>
+    </li>
+
+    <li>
+        <span class="label">Phone</span>
+        <span>01999205212</span>
+    </li>
+
+    <li>
+        <span class="label">LinkedIn</span>
+        <a href="https://www.linkedin.com/in/masum-iqbal-ru/" target="_blank">
+            LinkedIn Profile
+        </a>
+    </li>
+
+    <li>
+        <span class="label">Google Scholar</span>
+        <a href="https://scholar.google.com/citations?user=zEopuOgAAAAJ&hl=en" target="_blank">
+            Google Scholar Profile
+        </a>
+    </li>
+
+    <li>
+        <span class="label">ORCID</span>
+        <a href="https://orcid.org/0009-0000-5700-6727" target="_blank">
+            ORCID Profile
+        </a>
+    </li>
+
+    <li>
+        <span class="label">ResearchGate</span>
+        <a href="https://www.researchgate.net/profile/Mdmasum-Iqbal?ev=hdr_xprf" target="_blank">
+            ResearchGate Profile
+        </a>
+    </li>
+</ul>
+    
   </div>
 </section>
 
